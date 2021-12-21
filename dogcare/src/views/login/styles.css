@@ -1,0 +1,33 @@
+.login-container {
+  width: 100%;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: rgb(14, 94, 212);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  width: 100%;
+  max-width: 600px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title-image {
+  width: auto;
+  height: 200px;
+  margin-bottom: 8rem;
+  margin-top: 8rem;
+}
+
+.login-inputs {
+  margin-bottom: 2rem;
+  max-width: 800px;
+  width: 100%;
+}
